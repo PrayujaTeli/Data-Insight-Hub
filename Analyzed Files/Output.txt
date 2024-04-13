@@ -1,0 +1,1 @@
+This folder contains all files in xlsx format with expected data creation upon running Suicide_project.ipynb. You can download and use Excel or LibreOffice to access these files.
