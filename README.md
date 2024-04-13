@@ -1,1 +1,1 @@
-# Data Insight Hub
+# VitalGuard Analytics
