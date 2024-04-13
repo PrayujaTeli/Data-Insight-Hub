@@ -1,1 +1,1 @@
-# Data-Insight-Hub
+# Data Insight Hub
