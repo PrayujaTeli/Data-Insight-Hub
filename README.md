@@ -1,5 +1,6 @@
 # VitalGuard Analytics
 
+Live Dashboard [Link](https://public.tableau.com/app/profile/prayuja.teli/viz/VitalGuardAnalytics/Dashboard1?publish=yes)
 ## Overview
 This project aims to identify countries with high suicide rates and analyze potential contributing factors using various parameters. Data is collected from diverse sources, and enriched through analysis.
 
