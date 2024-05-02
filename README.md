@@ -1,32 +1,18 @@
 # VitalGuard Analytics
 
-Live Dashboard [Link](https://public.tableau.com/app/profile/prayuja.teli/viz/VitalGuardAnalytics/Dashboard1?publish=yes)
-## Overview
-This project aims to identify countries with high suicide rates and analyze potential contributing factors using various parameters. Data is collected from diverse sources, and enriched through analysis.
+Live Dashboard [Link](https://public.tableau.com/views/VideoGamesSalesAnalysis_17145867687740/VideoGamesSalesAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-## Objective
-The primary objective is to provide actionable insights to suicide prevention agencies, prioritizing interventions to save lives.
+# Data Exploration: 
+Leveraging a rich dataset from Kaggle, I delved into global video game sales, uncovering trends and patterns that drive this dynamic industry.
 
-## How to Use
-1. Open the file `Suicide_project.ipynb`.
-2. Specify the correct directory path for datasets in the source code. For example:
-   ```python
-   directory_path = "C:\Users\prayujateli\Downloads\SuicideProject\\"
-   ```
-3. Run each cell sequentially.
-4. Upon completion, find the preprocessed data in the file named `Final_merged_dataset.xlsx`.
+# 📊 Visualization: 
+Using Tableau, I created interactive dashboards to visualize sales trends by region, platform, genre, and publisher. Check out the dashboard - https://lnkd.in/d9yT6ZKg
 
-## Potential Uses
-- **Government Agencies:** Identify regions with high suicide rates and areas needing improvement, such as mental health facilities or expenditure.
-- **Social Work Organizations:** Address demographics disproportionately affected by suicide.
-- **Paramedics:** Assess demand for mental health services and adjust the workforce accordingly.
-- **Suicide Hotline Providers:** Analyze trends in suicide rates across demographics.
-- **Business Sector:** Incorporate mental health considerations into operations and employee support.
+Utilized a comprehensive dataset from Kaggle, providing information on titles, platforms, genres, publishers, and global sales figures.
+Link to Kaggle Notebook Analysis https://lnkd.in/d4Nx_CUC 
 
-## Challenges & Constraints
-- **Missing Data:** Certain parameters lack widespread reporting.
-- **Assumptions:** Some variables were standardized using random values.
-- **Data Formatting:** Inconsistencies in country names posed integration challenges.
-
-## Conclusion
-This project offers a comprehensive dataset for stakeholders to assess suicide statistics worldwide. By identifying areas of concern, stakeholders can take proactive measures to mitigate suicide rates.
+# 🔑 Key Insights:
+- Dominance of specific platforms
+- Evergreen popularity of certain genres
+- Influence of publishers on sales
+- Shifting consumer preferences over time
